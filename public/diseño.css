@@ -1,0 +1,75 @@
+h1{
+    text-align: center;
+}
+
+p{
+    font-size: 22px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bodyA{
+    background-color: black;
+}
+
+.perfil{
+    max-width: 100%;
+    max-height: auto;
+    text-align: center;
+}
+
+.perfil2{
+    max-width: 100%;
+    max-height: auto;
+    text-align: center;
+}
+
+.perfil h1{
+    color: #ccc;
+}
+
+.perfil img{
+    width: 250px;
+    height: 250px;
+}
+
+.perfil p{
+    font-size: 22px;
+    color: #ccc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bground{
+    background-color: #ccc;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.imagen{
+    width: 500px;
+    height: 500px;
+}
+
+.container {
+    max-width: 100%;
+    margin: auto;
+    background: #f2f2f2;
+    overflow: auto;
+}
+
+.gallery{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 390px;
+}
+
+.gallery img{
+    width: 100%;
+    height: auto;
+}
+
+.desc{
+    padding: 15px;
+    text-align: center;
+}
